@@ -1,0 +1,16 @@
+
+1+4 = 100 + 3*250
+
+4+4 = 3*100 + 3*250
+
+13+8 = 10*100 + 6*250
+
+3+3 =
+
+
+* 4 e bol
+count/4
+* toplam count dan bolum u cikar
+count - count/4
+* kalan i birim fiyatla carp
+(count - count/4)*price
